@@ -1,0 +1,28 @@
+{
+  "top5": [
+    {
+      "address": "0xff73ba9e0669d7ead82421ad105bc6d715606ec4",
+      "balance": "3000698.1675679446"
+    },
+    {
+      "address": "0x9e9b7f93b0375b2d53d68bd65ceeb716f10ada21",
+      "balance": "655939.9939230935"
+    },
+    {
+      "address": "0x173d64529222db4d0427d36040bfe131c35027eb",
+      "balance": "500000"
+    },
+    {
+      "address": "0x6e4b7be5ef7f8950c76baa0bd90125bc9b33c8db",
+      "balance": "421969.4331745046"
+    },
+    {
+      "address": "0x1d30392503203dd42f5516b32daca6b2e11f71d7",
+      "balance": "99974.1612064914"
+    }
+  ],
+  "threshold100": null,
+  "threshold1000": null,
+  "totalHolders": 5,
+  "mode": "light"
+}
